@@ -1,0 +1,25 @@
+id: 1.0.r1/0
+type: dir
+count: 0
+cpath: /Delphi_Projekte
+copyroot: 0 /
+
+PLAIN
+K 15
+Delphi_Projekte
+V 12
+dir 1.0.r1/0
+END
+ENDREP
+id: 0.0.r1/127
+type: dir
+pred: 0.0.r0/17
+count: 1
+text: 1 71 43 43 37770b9067bde1bc4af9791a9ce69828
+cpath: /
+copyroot: 0 /
+
+_0.0.t0-1 add false false /Delphi_Projekte
+
+
+127 251
